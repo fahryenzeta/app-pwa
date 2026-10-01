@@ -1,0 +1,17 @@
+{
+  "name": "SIMPEL JAK Natuna",
+  "short_name": "SIMPEL JAK",
+  "description": "Sistem Informasi Pengelolaan Jalan, Jembatan dan Konstruksi Kabupaten Natuna",
+  "id": "/simpeljak/",
+  "start_url": "/simpeljak/",
+  "scope": "/simpeljak/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#0f172a",
+  "icons": [
+    { "src": "/simpeljak/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/simpeljak/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/simpeljak/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
